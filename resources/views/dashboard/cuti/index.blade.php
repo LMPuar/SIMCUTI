@@ -13,7 +13,7 @@
               <th scope="col">No.</th>
               <th scope="col">Jenis Cuti</th>
               <th scope="col">Alasan</th>
-              <th scope="col">Prihal Cuti</th>
+              <th scope="col">Perihal Cuti</th>
               <th scope="col">Mulai</th>
               <th scope="col">Masuk</th>
               <th scope="col">Action</th>
